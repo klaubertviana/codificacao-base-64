@@ -1,0 +1,10 @@
+C:\Users\Klaubert\Desktop\c#\CodificacaoBase64\CodificacaoBase64\CodificacaoBase64\bin\Debug\CodificacaoBase64.exe.config
+C:\Users\Klaubert\Desktop\c#\CodificacaoBase64\CodificacaoBase64\CodificacaoBase64\bin\Debug\CodificacaoBase64.exe
+C:\Users\Klaubert\Desktop\c#\CodificacaoBase64\CodificacaoBase64\CodificacaoBase64\bin\Debug\CodificacaoBase64.pdb
+C:\Users\Klaubert\Desktop\c#\CodificacaoBase64\CodificacaoBase64\CodificacaoBase64\obj\Debug\CodificacaoBase64.csprojAssemblyReference.cache
+C:\Users\Klaubert\Desktop\c#\CodificacaoBase64\CodificacaoBase64\CodificacaoBase64\obj\Debug\CodificacaoBase64.Properties.Resources.resources
+C:\Users\Klaubert\Desktop\c#\CodificacaoBase64\CodificacaoBase64\CodificacaoBase64\obj\Debug\CodificacaoBase64.csproj.GenerateResource.cache
+C:\Users\Klaubert\Desktop\c#\CodificacaoBase64\CodificacaoBase64\CodificacaoBase64\obj\Debug\CodificacaoBase64.csproj.CoreCompileInputs.cache
+C:\Users\Klaubert\Desktop\c#\CodificacaoBase64\CodificacaoBase64\CodificacaoBase64\obj\Debug\CodificacaoBase64.exe
+C:\Users\Klaubert\Desktop\c#\CodificacaoBase64\CodificacaoBase64\CodificacaoBase64\obj\Debug\CodificacaoBase64.pdb
+C:\Users\Klaubert\Desktop\c#\CodificacaoBase64\CodificacaoBase64\CodificacaoBase64\obj\Debug\CodificacaoBase64.FrmMain.resources
